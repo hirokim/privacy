@@ -49,7 +49,7 @@
 
 **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">子供のプライバシー</font></font>**
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">これらのサービスは13歳未満のユーザーには対応していません。13歳未満の子供から個人を特定できる情報を故意に収集しません。13歳未満の子供が個人情報を提供したことに気付いた場合は、これを直ちにサーバーから削除します。</font><font style="vertical-align: inherit;">あなたが親または保護者であり、あなたの子供が私たちに個人情報を提供したことに気付いている場合は、私に連絡してください。私が必要な行動をとれるようにします。</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">これらのサービスは17歳未満のユーザーには対応していません。17歳未満の子供から個人を特定できる情報を故意に収集しません。17歳未満の子供が個人情報を提供したことに気付いた場合は、これを直ちにサーバーから削除します。</font><font style="vertical-align: inherit;">あなたが親または保護者であり、あなたの子供が私たちに個人情報を提供したことに気付いている場合は、私に連絡してください。私が必要な行動をとれるようにします。</font></font>
 
 **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">このプライバシーポリシーの変更</font></font>**
 
